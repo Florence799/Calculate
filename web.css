@@ -1,0 +1,49 @@
+body{
+ text-decoration-color: aqua;
+ text-align: center;
+margin-right: 20px;
+
+background-color: darksalmon;
+}
+table{
+    box-shadow: 2px 2px white;
+    background-color: palevioletred;
+    border-radius: 10px 10px ;
+    text-align: center;
+    margin-left: 890px;
+    margin-top: 130px;
+    margin-bottom: 500px;
+    height: 800px;
+    width: 950px;
+    -moz-box-ordinal-group: initial;
+}
+h2{
+    text-shadow: 8px 8px white;
+    text-align: center;
+    font-size: 100px;
+    
+
+
+}
+button{
+    font-size: 50px;
+    border-radius: 50%;
+    box-shadow: 3px 3px wheat;
+    box-sizing: center;
+}
+#results{
+    margin-left:5%;
+    height: 50px;
+    border: center;
+    width:900px;
+    margin-left: 80px;
+    margin-top: 10px;
+    background-color: palevioletred;
+    font-size: 50px;
+    box-shadow: 3px 3px white
+}
+#text{
+    height: 200px;
+    width: 200px;
+    margin-left: 120px;
+}
